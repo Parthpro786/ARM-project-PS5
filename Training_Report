@@ -1,0 +1,405 @@
+Initializing Model...
+Device: cpu
+Training images: 3167
+--- Epoch 1 Started ---
+Epoch [1/40] Batch 0 | Objects: 0 | Loss: 33.1782
+Epoch [1/40] Batch 50 | Objects: 12 | Loss: 11.6379
+Epoch [1/40] Batch 100 | Objects: 9 | Loss: 9.6968
+Epoch [1/40] Batch 150 | Objects: 9 | Loss: 9.7030
+Epoch [1/40] Batch 200 | Objects: 19 | Loss: 18.1128
+Epoch [1/40] Batch 250 | Objects: 15 | Loss: 17.0873
+Epoch [1/40] Batch 300 | Objects: 3 | Loss: 3.5974
+Epoch [1/40] Batch 350 | Objects: 1 | Loss: 1.4975
+>>> Epoch [1/40] Completed | Avg Loss: 9.5009
+--- Epoch 2 Started ---
+Epoch [2/40] Batch 0 | Objects: 8 | Loss: 8.0102
+Epoch [2/40] Batch 50 | Objects: 1 | Loss: 1.2916
+Epoch [2/40] Batch 100 | Objects: 21 | Loss: 20.6276
+Epoch [2/40] Batch 150 | Objects: 6 | Loss: 5.9001
+Epoch [2/40] Batch 200 | Objects: 8 | Loss: 8.3721
+Epoch [2/40] Batch 250 | Objects: 13 | Loss: 10.8778
+Epoch [2/40] Batch 300 | Objects: 5 | Loss: 5.7159
+Epoch [2/40] Batch 350 | Objects: 24 | Loss: 18.1196
+>>> Epoch [2/40] Completed | Avg Loss: 8.6831
+--- Epoch 3 Started ---
+Epoch [3/40] Batch 0 | Objects: 13 | Loss: 11.4901
+Epoch [3/40] Batch 50 | Objects: 13 | Loss: 12.4735
+Epoch [3/40] Batch 100 | Objects: 11 | Loss: 9.0270
+Epoch [3/40] Batch 150 | Objects: 4 | Loss: 5.8085
+Epoch [3/40] Batch 200 | Objects: 10 | Loss: 9.1921
+Epoch [3/40] Batch 250 | Objects: 16 | Loss: 14.3444
+Epoch [3/40] Batch 300 | Objects: 15 | Loss: 14.6154
+Epoch [3/40] Batch 350 | Objects: 13 | Loss: 11.0499
+>>> Epoch [3/40] Completed | Avg Loss: 8.5426
+--- Epoch 4 Started ---
+Epoch [4/40] Batch 0 | Objects: 7 | Loss: 7.3529
+Epoch [4/40] Batch 50 | Objects: 2 | Loss: 3.0016
+Epoch [4/40] Batch 100 | Objects: 11 | Loss: 10.1485
+Epoch [4/40] Batch 150 | Objects: 21 | Loss: 18.2615
+Epoch [4/40] Batch 200 | Objects: 11 | Loss: 10.3615
+Epoch [4/40] Batch 250 | Objects: 33 | Loss: 34.9576
+Epoch [4/40] Batch 300 | Objects: 5 | Loss: 5.4127
+Epoch [4/40] Batch 350 | Objects: 8 | Loss: 6.3992
+>>> Epoch [4/40] Completed | Avg Loss: 8.4006
+--- Epoch 5 Started ---
+Epoch [5/40] Batch 0 | Objects: 9 | Loss: 9.7160
+Epoch [5/40] Batch 50 | Objects: 10 | Loss: 9.2766
+Epoch [5/40] Batch 100 | Objects: 8 | Loss: 6.7179
+Epoch [5/40] Batch 150 | Objects: 10 | Loss: 7.9995
+Epoch [5/40] Batch 200 | Objects: 2 | Loss: 2.9420
+Epoch [5/40] Batch 250 | Objects: 7 | Loss: 6.2724
+Epoch [5/40] Batch 300 | Objects: 3 | Loss: 3.8508
+Epoch [5/40] Batch 350 | Objects: 4 | Loss: 4.4880
+>>> Epoch [5/40] Completed | Avg Loss: 8.2655
+--- Epoch 6 Started ---
+Epoch [6/40] Batch 0 | Objects: 2 | Loss: 1.8078
+Epoch [6/40] Batch 50 | Objects: 7 | Loss: 4.9107
+Epoch [6/40] Batch 100 | Objects: 3 | Loss: 2.9653
+Epoch [6/40] Batch 150 | Objects: 15 | Loss: 13.4515
+Epoch [6/40] Batch 200 | Objects: 6 | Loss: 5.6131
+Epoch [6/40] Batch 250 | Objects: 12 | Loss: 11.6910
+Epoch [6/40] Batch 300 | Objects: 5 | Loss: 5.3371
+Epoch [6/40] Batch 350 | Objects: 11 | Loss: 9.3766
+>>> Epoch [6/40] Completed | Avg Loss: 8.0475
+--- Epoch 7 Started ---
+Epoch [7/40] Batch 0 | Objects: 1 | Loss: 2.1095
+Epoch [7/40] Batch 50 | Objects: 11 | Loss: 7.8147
+Epoch [7/40] Batch 100 | Objects: 3 | Loss: 4.2115
+Epoch [7/40] Batch 150 | Objects: 7 | Loss: 5.7060
+Epoch [7/40] Batch 200 | Objects: 13 | Loss: 11.9428
+Epoch [7/40] Batch 250 | Objects: 6 | Loss: 6.0293
+Epoch [7/40] Batch 300 | Objects: 29 | Loss: 21.6147
+Epoch [7/40] Batch 350 | Objects: 9 | Loss: 7.8615
+>>> Epoch [7/40] Completed | Avg Loss: 7.9153
+--- Epoch 8 Started ---
+Epoch [8/40] Batch 0 | Objects: 21 | Loss: 16.3843
+Epoch [8/40] Batch 50 | Objects: 4 | Loss: 3.5032
+Epoch [8/40] Batch 100 | Objects: 9 | Loss: 8.6898
+Epoch [8/40] Batch 150 | Objects: 10 | Loss: 8.9988
+Epoch [8/40] Batch 200 | Objects: 5 | Loss: 5.8774
+Epoch [8/40] Batch 250 | Objects: 4 | Loss: 3.5132
+Epoch [8/40] Batch 300 | Objects: 2 | Loss: 2.4355
+Epoch [8/40] Batch 350 | Objects: 2 | Loss: 2.2218
+>>> Epoch [8/40] Completed | Avg Loss: 7.7988
+--- Epoch 9 Started ---
+Epoch [9/40] Batch 0 | Objects: 10 | Loss: 9.4465
+Epoch [9/40] Batch 50 | Objects: 1 | Loss: 1.7117
+Epoch [9/40] Batch 100 | Objects: 7 | Loss: 6.3501
+Epoch [9/40] Batch 150 | Objects: 11 | Loss: 7.7779
+Epoch [9/40] Batch 200 | Objects: 12 | Loss: 10.0806
+Epoch [9/40] Batch 250 | Objects: 8 | Loss: 7.9789
+Epoch [9/40] Batch 300 | Objects: 14 | Loss: 11.0779
+Epoch [9/40] Batch 350 | Objects: 9 | Loss: 7.5291
+>>> Epoch [9/40] Completed | Avg Loss: 7.5963
+--- Epoch 10 Started ---
+Epoch [10/40] Batch 0 | Objects: 4 | Loss: 5.1006
+Epoch [10/40] Batch 50 | Objects: 8 | Loss: 8.1642
+Epoch [10/40] Batch 100 | Objects: 4 | Loss: 4.6639
+Epoch [10/40] Batch 150 | Objects: 4 | Loss: 4.5467
+Epoch [10/40] Batch 200 | Objects: 13 | Loss: 11.6786
+Epoch [10/40] Batch 250 | Objects: 0 | Loss: 0.6617
+Epoch [10/40] Batch 300 | Objects: 14 | Loss: 12.7436
+Epoch [10/40] Batch 350 | Objects: 9 | Loss: 5.6121
+>>> Epoch [10/40] Completed | Avg Loss: 7.2901
+--- Epoch 11 Started ---
+Epoch [11/40] Batch 0 | Objects: 2 | Loss: 2.3642
+Epoch [11/40] Batch 50 | Objects: 7 | Loss: 7.0903
+Epoch [11/40] Batch 100 | Objects: 7 | Loss: 5.9377
+Epoch [11/40] Batch 150 | Objects: 4 | Loss: 3.9924
+Epoch [11/40] Batch 200 | Objects: 12 | Loss: 8.6642
+Epoch [11/40] Batch 250 | Objects: 9 | Loss: 7.5487
+Epoch [11/40] Batch 300 | Objects: 8 | Loss: 6.0272
+Epoch [11/40] Batch 350 | Objects: 8 | Loss: 8.0781
+>>> Epoch [11/40] Completed | Avg Loss: 7.0097
+--- Epoch 12 Started ---
+Epoch [12/40] Batch 0 | Objects: 7 | Loss: 5.5965
+Epoch [12/40] Batch 50 | Objects: 7 | Loss: 5.5323
+Epoch [12/40] Batch 100 | Objects: 10 | Loss: 6.0873
+Epoch [12/40] Batch 150 | Objects: 2 | Loss: 2.2167
+Epoch [12/40] Batch 200 | Objects: 9 | Loss: 7.8289
+Epoch [12/40] Batch 250 | Objects: 15 | Loss: 8.9588
+Epoch [12/40] Batch 300 | Objects: 12 | Loss: 8.5677
+Epoch [12/40] Batch 350 | Objects: 4 | Loss: 3.1791
+>>> Epoch [12/40] Completed | Avg Loss: 6.6135
+--- Epoch 13 Started ---
+Epoch [13/40] Batch 0 | Objects: 8 | Loss: 4.4691
+Epoch [13/40] Batch 50 | Objects: 1 | Loss: 1.7615
+Epoch [13/40] Batch 100 | Objects: 4 | Loss: 3.1831
+Epoch [13/40] Batch 150 | Objects: 6 | Loss: 5.0457
+Epoch [13/40] Batch 200 | Objects: 22 | Loss: 13.1400
+Epoch [13/40] Batch 250 | Objects: 14 | Loss: 6.9096
+Epoch [13/40] Batch 300 | Objects: 17 | Loss: 12.5305
+Epoch [13/40] Batch 350 | Objects: 30 | Loss: 15.5427
+>>> Epoch [13/40] Completed | Avg Loss: 6.2167
+--- Epoch 14 Started ---
+Epoch [14/40] Batch 0 | Objects: 5 | Loss: 3.4859
+Epoch [14/40] Batch 50 | Objects: 3 | Loss: 1.5220
+Epoch [14/40] Batch 100 | Objects: 19 | Loss: 11.6217
+Epoch [14/40] Batch 150 | Objects: 14 | Loss: 8.7452
+Epoch [14/40] Batch 200 | Objects: 10 | Loss: 6.3372
+Epoch [14/40] Batch 250 | Objects: 4 | Loss: 3.7055
+Epoch [14/40] Batch 300 | Objects: 4 | Loss: 2.6650
+Epoch [14/40] Batch 350 | Objects: 12 | Loss: 7.4179
+>>> Epoch [14/40] Completed | Avg Loss: 5.7684
+--- Epoch 15 Started ---
+Epoch [15/40] Batch 0 | Objects: 6 | Loss: 3.3421
+Epoch [15/40] Batch 50 | Objects: 4 | Loss: 3.4712
+Epoch [15/40] Batch 100 | Objects: 18 | Loss: 11.5359
+Epoch [15/40] Batch 150 | Objects: 0 | Loss: 0.5483
+Epoch [15/40] Batch 200 | Objects: 3 | Loss: 2.6701
+Epoch [15/40] Batch 250 | Objects: 5 | Loss: 3.9005
+Epoch [15/40] Batch 300 | Objects: 4 | Loss: 3.0905
+Epoch [15/40] Batch 350 | Objects: 0 | Loss: 0.3159
+>>> Epoch [15/40] Completed | Avg Loss: 5.2590
+--- Epoch 16 Started ---
+Epoch [16/40] Batch 0 | Objects: 3 | Loss: 1.0099
+Epoch [16/40] Batch 50 | Objects: 10 | Loss: 5.5279
+Epoch [16/40] Batch 100 | Objects: 10 | Loss: 4.5875
+Epoch [16/40] Batch 150 | Objects: 11 | Loss: 3.4612
+Epoch [16/40] Batch 200 | Objects: 12 | Loss: 6.7693
+Epoch [16/40] Batch 250 | Objects: 10 | Loss: 6.1974
+Epoch [16/40] Batch 300 | Objects: 13 | Loss: 6.1759
+Epoch [16/40] Batch 350 | Objects: 11 | Loss: 5.5135
+>>> Epoch [16/40] Completed | Avg Loss: 4.8803
+--- Epoch 17 Started ---
+Epoch [17/40] Batch 0 | Objects: 3 | Loss: 1.8397
+Epoch [17/40] Batch 50 | Objects: 11 | Loss: 4.7857
+Epoch [17/40] Batch 100 | Objects: 12 | Loss: 5.0034
+Epoch [17/40] Batch 150 | Objects: 6 | Loss: 1.7886
+Epoch [17/40] Batch 200 | Objects: 5 | Loss: 3.5618
+Epoch [17/40] Batch 250 | Objects: 2 | Loss: 1.1300
+Epoch [17/40] Batch 300 | Objects: 5 | Loss: 2.6221
+Epoch [17/40] Batch 350 | Objects: 12 | Loss: 3.9255
+>>> Epoch [17/40] Completed | Avg Loss: 4.3422
+--- Epoch 18 Started ---
+Epoch [18/40] Batch 0 | Objects: 10 | Loss: 2.2133
+Epoch [18/40] Batch 50 | Objects: 10 | Loss: 3.1364
+Epoch [18/40] Batch 100 | Objects: 17 | Loss: 5.1004
+Epoch [18/40] Batch 150 | Objects: 3 | Loss: 1.7530
+Epoch [18/40] Batch 200 | Objects: 14 | Loss: 5.3169
+Epoch [18/40] Batch 250 | Objects: 17 | Loss: 7.4710
+Epoch [18/40] Batch 300 | Objects: 4 | Loss: 3.0277
+Epoch [18/40] Batch 350 | Objects: 7 | Loss: 5.1370
+>>> Epoch [18/40] Completed | Avg Loss: 3.8887
+--- Epoch 19 Started ---
+Epoch [19/40] Batch 0 | Objects: 16 | Loss: 1.9076
+Epoch [19/40] Batch 50 | Objects: 1 | Loss: 1.4085
+Epoch [19/40] Batch 100 | Objects: 15 | Loss: 5.9964
+Epoch [19/40] Batch 150 | Objects: 15 | Loss: 5.7661
+Epoch [19/40] Batch 200 | Objects: 2 | Loss: 0.4254
+Epoch [19/40] Batch 250 | Objects: 16 | Loss: 3.9060
+Epoch [19/40] Batch 300 | Objects: 11 | Loss: 5.5046
+Epoch [19/40] Batch 350 | Objects: 5 | Loss: 4.2476
+>>> Epoch [19/40] Completed | Avg Loss: 3.4672
+--- Epoch 20 Started ---
+Epoch [20/40] Batch 0 | Objects: 1 | Loss: 0.9835
+Epoch [20/40] Batch 50 | Objects: 7 | Loss: 1.5955
+Epoch [20/40] Batch 100 | Objects: 9 | Loss: 2.7743
+Epoch [20/40] Batch 150 | Objects: 6 | Loss: 1.7332
+Epoch [20/40] Batch 200 | Objects: 9 | Loss: 3.4742
+Epoch [20/40] Batch 250 | Objects: 14 | Loss: 7.5270
+Epoch [20/40] Batch 300 | Objects: 15 | Loss: 6.0930
+Epoch [20/40] Batch 350 | Objects: 3 | Loss: 1.7658
+>>> Epoch [20/40] Completed | Avg Loss: 3.0976
+--- Epoch 21 Started ---
+Epoch [21/40] Batch 0 | Objects: 26 | Loss: 9.0909
+Epoch [21/40] Batch 50 | Objects: 9 | Loss: 3.3810
+Epoch [21/40] Batch 100 | Objects: 14 | Loss: 2.9056
+Epoch [21/40] Batch 150 | Objects: 0 | Loss: 0.3315
+Epoch [21/40] Batch 200 | Objects: 31 | Loss: 8.3389
+Epoch [21/40] Batch 250 | Objects: 9 | Loss: 3.7311
+Epoch [21/40] Batch 300 | Objects: 4 | Loss: 1.4816
+Epoch [21/40] Batch 350 | Objects: 5 | Loss: 2.5406
+>>> Epoch [21/40] Completed | Avg Loss: 2.7855
+--- Epoch 22 Started ---
+Epoch [22/40] Batch 0 | Objects: 4 | Loss: 1.7264
+Epoch [22/40] Batch 50 | Objects: 7 | Loss: 1.0440
+Epoch [22/40] Batch 100 | Objects: 2 | Loss: 0.8715
+Epoch [22/40] Batch 150 | Objects: 14 | Loss: 2.8596
+Epoch [22/40] Batch 200 | Objects: 4 | Loss: 1.1555
+Epoch [22/40] Batch 250 | Objects: 5 | Loss: 1.2888
+Epoch [22/40] Batch 300 | Objects: 6 | Loss: 2.6489
+Epoch [22/40] Batch 350 | Objects: 6 | Loss: 1.6689
+>>> Epoch [22/40] Completed | Avg Loss: 2.5269
+--- Epoch 23 Started ---
+Epoch [23/40] Batch 0 | Objects: 2 | Loss: 0.9487
+Epoch [23/40] Batch 50 | Objects: 2 | Loss: 1.0699
+Epoch [23/40] Batch 100 | Objects: 10 | Loss: 5.4771
+Epoch [23/40] Batch 150 | Objects: 1 | Loss: 0.2887
+Epoch [23/40] Batch 200 | Objects: 3 | Loss: 0.7020
+Epoch [23/40] Batch 250 | Objects: 1 | Loss: 0.9066
+Epoch [23/40] Batch 300 | Objects: 14 | Loss: 4.7296
+Epoch [23/40] Batch 350 | Objects: 9 | Loss: 2.4664
+>>> Epoch [23/40] Completed | Avg Loss: 2.3122
+--- Epoch 24 Started ---
+Epoch [24/40] Batch 0 | Objects: 10 | Loss: 1.4729
+Epoch [24/40] Batch 50 | Objects: 3 | Loss: 0.7054
+Epoch [24/40] Batch 100 | Objects: 4 | Loss: 0.3784
+Epoch [24/40] Batch 150 | Objects: 5 | Loss: 1.6468
+Epoch [24/40] Batch 200 | Objects: 7 | Loss: 2.4298
+Epoch [24/40] Batch 250 | Objects: 10 | Loss: 1.2630
+Epoch [24/40] Batch 300 | Objects: 7 | Loss: 2.2453
+Epoch [24/40] Batch 350 | Objects: 26 | Loss: 3.4707
+>>> Epoch [24/40] Completed | Avg Loss: 2.1421
+--- Epoch 25 Started ---
+Epoch [25/40] Batch 0 | Objects: 10 | Loss: 0.9178
+Epoch [25/40] Batch 50 | Objects: 25 | Loss: 3.7592
+Epoch [25/40] Batch 100 | Objects: 5 | Loss: 1.3072
+Epoch [25/40] Batch 150 | Objects: 9 | Loss: 1.2699
+Epoch [25/40] Batch 200 | Objects: 0 | Loss: 0.1048
+Epoch [25/40] Batch 250 | Objects: 9 | Loss: 1.1062
+Epoch [25/40] Batch 300 | Objects: 8 | Loss: 2.8725
+Epoch [25/40] Batch 350 | Objects: 4 | Loss: 1.5627
+>>> Epoch [25/40] Completed | Avg Loss: 1.9397
+--- Epoch 26 Started ---
+Epoch [26/40] Batch 0 | Objects: 21 | Loss: 2.9533
+Epoch [26/40] Batch 50 | Objects: 1 | Loss: 0.3136
+Epoch [26/40] Batch 100 | Objects: 11 | Loss: 0.7442
+Epoch [26/40] Batch 150 | Objects: 1 | Loss: 0.2114
+Epoch [26/40] Batch 200 | Objects: 12 | Loss: 3.2915
+Epoch [26/40] Batch 250 | Objects: 3 | Loss: 0.3538
+Epoch [26/40] Batch 300 | Objects: 9 | Loss: 4.1164
+Epoch [26/40] Batch 350 | Objects: 6 | Loss: 2.1253
+>>> Epoch [26/40] Completed | Avg Loss: 1.8308
+--- Epoch 27 Started ---
+Epoch [27/40] Batch 0 | Objects: 10 | Loss: 3.2055
+Epoch [27/40] Batch 50 | Objects: 13 | Loss: 2.6495
+Epoch [27/40] Batch 100 | Objects: 12 | Loss: 0.9496
+Epoch [27/40] Batch 150 | Objects: 6 | Loss: 2.1086
+Epoch [27/40] Batch 200 | Objects: 10 | Loss: 1.6292
+Epoch [27/40] Batch 250 | Objects: 7 | Loss: 1.1153
+Epoch [27/40] Batch 300 | Objects: 2 | Loss: 1.3691
+Epoch [27/40] Batch 350 | Objects: 19 | Loss: 1.4663
+>>> Epoch [27/40] Completed | Avg Loss: 1.7416
+--- Epoch 28 Started ---
+Epoch [28/40] Batch 0 | Objects: 23 | Loss: 2.6336
+Epoch [28/40] Batch 50 | Objects: 7 | Loss: 3.2520
+Epoch [28/40] Batch 100 | Objects: 1 | Loss: 0.7898
+Epoch [28/40] Batch 150 | Objects: 6 | Loss: 2.0513
+Epoch [28/40] Batch 200 | Objects: 23 | Loss: 1.9930
+Epoch [28/40] Batch 250 | Objects: 8 | Loss: 1.1122
+Epoch [28/40] Batch 300 | Objects: 7 | Loss: 1.6383
+Epoch [28/40] Batch 350 | Objects: 0 | Loss: 0.1482
+>>> Epoch [28/40] Completed | Avg Loss: 1.6364
+--- Epoch 29 Started ---
+Epoch [29/40] Batch 0 | Objects: 5 | Loss: 1.1510
+Epoch [29/40] Batch 50 | Objects: 4 | Loss: 2.3869
+Epoch [29/40] Batch 100 | Objects: 13 | Loss: 2.5701
+Epoch [29/40] Batch 150 | Objects: 10 | Loss: 2.5015
+Epoch [29/40] Batch 200 | Objects: 11 | Loss: 0.6318
+Epoch [29/40] Batch 250 | Objects: 7 | Loss: 1.6322
+Epoch [29/40] Batch 300 | Objects: 2 | Loss: 0.5110
+Epoch [29/40] Batch 350 | Objects: 9 | Loss: 3.8454
+>>> Epoch [29/40] Completed | Avg Loss: 1.5397
+--- Epoch 30 Started ---
+Epoch [30/40] Batch 0 | Objects: 6 | Loss: 0.7520
+Epoch [30/40] Batch 50 | Objects: 7 | Loss: 0.9658
+Epoch [30/40] Batch 100 | Objects: 5 | Loss: 1.7881
+Epoch [30/40] Batch 150 | Objects: 3 | Loss: 1.9741
+Epoch [30/40] Batch 200 | Objects: 10 | Loss: 1.8621
+Epoch [30/40] Batch 250 | Objects: 7 | Loss: 0.6637
+Epoch [30/40] Batch 300 | Objects: 5 | Loss: 1.8693
+Epoch [30/40] Batch 350 | Objects: 12 | Loss: 0.6975
+>>> Epoch [30/40] Completed | Avg Loss: 1.5115
+--- Epoch 31 Started ---
+Epoch [31/40] Batch 0 | Objects: 9 | Loss: 1.3640
+Epoch [31/40] Batch 50 | Objects: 1 | Loss: 0.0996
+Epoch [31/40] Batch 100 | Objects: 10 | Loss: 2.9719
+Epoch [31/40] Batch 150 | Objects: 7 | Loss: 0.3560
+Epoch [31/40] Batch 200 | Objects: 11 | Loss: 0.4583
+Epoch [31/40] Batch 250 | Objects: 3 | Loss: 0.2362
+Epoch [31/40] Batch 300 | Objects: 28 | Loss: 5.5089
+Epoch [31/40] Batch 350 | Objects: 7 | Loss: 0.7788
+>>> Epoch [31/40] Completed | Avg Loss: 1.4083
+--- Epoch 32 Started ---
+Epoch [32/40] Batch 0 | Objects: 5 | Loss: 1.5091
+Epoch [32/40] Batch 50 | Objects: 0 | Loss: 0.1053
+Epoch [32/40] Batch 100 | Objects: 18 | Loss: 1.9979
+Epoch [32/40] Batch 150 | Objects: 6 | Loss: 0.6248
+Epoch [32/40] Batch 200 | Objects: 4 | Loss: 0.8654
+Epoch [32/40] Batch 250 | Objects: 12 | Loss: 1.4383
+Epoch [32/40] Batch 300 | Objects: 7 | Loss: 2.7666
+Epoch [32/40] Batch 350 | Objects: 7 | Loss: 0.5725
+>>> Epoch [32/40] Completed | Avg Loss: 1.3465
+--- Epoch 33 Started ---
+Epoch [33/40] Batch 0 | Objects: 19 | Loss: 2.9654
+Epoch [33/40] Batch 50 | Objects: 8 | Loss: 0.4731
+Epoch [33/40] Batch 100 | Objects: 18 | Loss: 1.2245
+Epoch [33/40] Batch 150 | Objects: 7 | Loss: 2.3955
+Epoch [33/40] Batch 200 | Objects: 18 | Loss: 0.8573
+Epoch [33/40] Batch 250 | Objects: 20 | Loss: 2.6167
+Epoch [33/40] Batch 300 | Objects: 9 | Loss: 1.2074
+Epoch [33/40] Batch 350 | Objects: 7 | Loss: 0.5371
+>>> Epoch [33/40] Completed | Avg Loss: 1.3143
+--- Epoch 34 Started ---
+Epoch [34/40] Batch 0 | Objects: 0 | Loss: 0.1375
+Epoch [34/40] Batch 50 | Objects: 6 | Loss: 0.5089
+Epoch [34/40] Batch 100 | Objects: 12 | Loss: 2.2078
+Epoch [34/40] Batch 150 | Objects: 5 | Loss: 0.3178
+Epoch [34/40] Batch 200 | Objects: 5 | Loss: 0.3765
+Epoch [34/40] Batch 250 | Objects: 18 | Loss: 1.0885
+Epoch [34/40] Batch 300 | Objects: 4 | Loss: 0.2685
+Epoch [34/40] Batch 350 | Objects: 0 | Loss: 0.1476
+>>> Epoch [34/40] Completed | Avg Loss: 1.2846
+--- Epoch 35 Started ---
+Epoch [35/40] Batch 0 | Objects: 3 | Loss: 0.3769
+Epoch [35/40] Batch 50 | Objects: 7 | Loss: 0.9053
+Epoch [35/40] Batch 100 | Objects: 24 | Loss: 0.7575
+Epoch [35/40] Batch 150 | Objects: 3 | Loss: 0.1701
+Epoch [35/40] Batch 200 | Objects: 8 | Loss: 0.3616
+Epoch [35/40] Batch 250 | Objects: 5 | Loss: 0.9734
+Epoch [35/40] Batch 300 | Objects: 18 | Loss: 1.8241
+Epoch [35/40] Batch 350 | Objects: 23 | Loss: 0.8860
+>>> Epoch [35/40] Completed | Avg Loss: 1.2300
+--- Epoch 36 Started ---
+Epoch [36/40] Batch 0 | Objects: 7 | Loss: 1.6801
+Epoch [36/40] Batch 50 | Objects: 22 | Loss: 1.1380
+Epoch [36/40] Batch 100 | Objects: 6 | Loss: 0.2917
+Epoch [36/40] Batch 150 | Objects: 7 | Loss: 1.2553
+Epoch [36/40] Batch 200 | Objects: 2 | Loss: 0.7798
+Epoch [36/40] Batch 250 | Objects: 4 | Loss: 0.3098
+Epoch [36/40] Batch 300 | Objects: 4 | Loss: 1.0384
+Epoch [36/40] Batch 350 | Objects: 4 | Loss: 0.7032
+>>> Epoch [36/40] Completed | Avg Loss: 1.2302
+--- Epoch 37 Started ---
+Epoch [37/40] Batch 0 | Objects: 10 | Loss: 1.1166
+Epoch [37/40] Batch 50 | Objects: 5 | Loss: 0.3153
+Epoch [37/40] Batch 100 | Objects: 7 | Loss: 0.2976
+Epoch [37/40] Batch 150 | Objects: 18 | Loss: 2.0755
+Epoch [37/40] Batch 200 | Objects: 18 | Loss: 0.4973
+Epoch [37/40] Batch 250 | Objects: 7 | Loss: 1.5311
+Epoch [37/40] Batch 300 | Objects: 13 | Loss: 0.3870
+Epoch [37/40] Batch 350 | Objects: 1 | Loss: 0.7700
+>>> Epoch [37/40] Completed | Avg Loss: 1.1771
+--- Epoch 38 Started ---
+Epoch [38/40] Batch 0 | Objects: 13 | Loss: 1.2353
+Epoch [38/40] Batch 50 | Objects: 12 | Loss: 0.3242
+Epoch [38/40] Batch 100 | Objects: 12 | Loss: 0.7587
+Epoch [38/40] Batch 150 | Objects: 5 | Loss: 0.3737
+Epoch [38/40] Batch 200 | Objects: 11 | Loss: 0.3317
+Epoch [38/40] Batch 250 | Objects: 3 | Loss: 0.9601
+Epoch [38/40] Batch 300 | Objects: 20 | Loss: 1.4555
+Epoch [38/40] Batch 350 | Objects: 7 | Loss: 0.9423
+>>> Epoch [38/40] Completed | Avg Loss: 1.1425
+--- Epoch 39 Started ---
+Epoch [39/40] Batch 0 | Objects: 10 | Loss: 1.3565
+Epoch [39/40] Batch 50 | Objects: 0 | Loss: 0.0896
+Epoch [39/40] Batch 100 | Objects: 6 | Loss: 0.4544
+Epoch [39/40] Batch 150 | Objects: 6 | Loss: 1.6070
+Epoch [39/40] Batch 200 | Objects: 5 | Loss: 1.3797
+Epoch [39/40] Batch 250 | Objects: 12 | Loss: 1.3211
+Epoch [39/40] Batch 300 | Objects: 9 | Loss: 1.2320
+Epoch [39/40] Batch 350 | Objects: 3 | Loss: 0.5927
+>>> Epoch [39/40] Completed | Avg Loss: 1.1347
+--- Epoch 40 Started ---
+Epoch [40/40] Batch 0 | Objects: 0 | Loss: 0.1449
+Epoch [40/40] Batch 50 | Objects: 10 | Loss: 1.2362
+Epoch [40/40] Batch 100 | Objects: 5 | Loss: 1.3301
+Epoch [40/40] Batch 150 | Objects: 7 | Loss: 0.2219
+Epoch [40/40] Batch 200 | Objects: 4 | Loss: 1.5634
+Epoch [40/40] Batch 250 | Objects: 8 | Loss: 1.2732
+Epoch [40/40] Batch 300 | Objects: 9 | Loss: 1.8763
+Epoch [40/40] Batch 350 | Objects: 1 | Loss: 0.1699
+>>> Epoch [40/40] Completed | Avg Loss: 1.0929
+Training Finished. Saving model...
+Saved as 'tinyyolo.pth'
