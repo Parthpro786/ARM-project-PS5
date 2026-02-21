@@ -26,7 +26,7 @@ class AutoDiscoveryDataset(torch.utils.data.Dataset):
         self.label_dir = label_dir
         
         # 1. Auto-Discovery: Find all JPGs
-        print(f"🔍 Scanning {self.image_dir} for images...")
+        print(f" Scanning {self.image_dir} for images...")
         all_images = glob.glob(os.path.join(self.image_dir, "*.jpg"))
         
         self.valid_pairs = []
@@ -126,3 +126,12 @@ test_loader = DataLoader(
 print(f"✅ FINAL STATUS: Data Pipeline Ready.")
 print(f"   - Training Batches: {len(train_loader)}")
 print(f"   - Testing Batches:  {len(test_loader)}")
+print("Dataloader ready.")
+
+#  Scanning C:\Users\Parth\Downloads\archive(1)\VOCtrainval_06-Nov-2007\VOCdevkit\VOC2007\JPEGImages for images...
+# ✅ Success! Found 3519 valid training pairs.
+
+# ✅ FINAL STATUS: Data Pipeline Ready.
+#    - Training Batches: 395
+#    - Testing Batches:  44
+# ✅ DataLoader ready.
